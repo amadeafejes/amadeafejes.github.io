@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Software Engineer and a Data Engineer aspirant. I'm really interested in big data, data pipelines and building machine learning models.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is my first web page hosted in Github. I would like to share my passion for Data Engineering.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amadeafejes@gmail.com](mailto:amadeafejes@gmail.com)
