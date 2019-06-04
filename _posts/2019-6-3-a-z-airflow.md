@@ -2,7 +2,6 @@
 layout: post
 title: "Data Engineering A-Z: Apache Airflow"
 ---
-![airflow_logo](https://airflow.apache.org/_images/pin_large.png)
 
 I shall begin my Data Engineering encyclopedia with an article about a classic Data Engineer tool, Apache Airflow. If you are an aspiring Data Engineer like me who has made some research about Data Engineering tools I'm sure you have met with the name Apache Airflow. The more I get involved in data pipelines the more I find this program unavoidable, so I decided to start my blog with an article about Airflow. I'm going to show you what is the reason that it is part of every second data engineer job description.
 
